@@ -1,0 +1,74 @@
+Table of Content
+Certificate
+Acknowledgement
+Abstract
+	Table of content
+List of Abbreviation
+List of Figure
+List of Table
+SRS
+Chapter 1 :- Indroduction
+1.1 :- Purpose
+1.2 :- About the Company
+1.3 :- Overview
+1.4 :- About the Technology
+1.4.1 :- HTML
+1.4.2 :- CSS
+1.4.3 :- BOOTSTRAP
+1.4.4 :- PHP
+1.4.5 :- MYSQL
+Chapter 2 :- Literature Survey
+2.1 :- Existing
+2.1.1 :- Disadvantage of existing system
+2.2.2 :- Purposed System
+Chapter 3 :- Feasibility Analysis
+3.1 :- Teachnical Feasibility
+3.2 :- Econominical Feasibility
+3.3 :- Operational Feasibility
+Chapter 4 :- Requirement Analysis
+4.1 :- Introduction
+4.1.1 :- Hardware requirement specification
+4.1.2 :- Software requirement
+4.1.3 :- Language used
+Chapter 5 :- System Analysis and design
+5.1 :- Modules description
+5.1.1 :-
+5.1.2 :-
+5.1.3 :-
+ 5.1.4 :-
+5.1.5 :-
+5.2 :- Database design
+5.2.1 :-Login table
+5.2.2 :- Admin table
+5.2.3 :- Category table
+5.2.4 :- Sub category table
+5.2.5 :- Enquriy table
+5.3 :- System design
+5.3.1 :- ERD
+5.3.2 :- DFD
+5.3.3 :- UML Diagram
+Chapter 6 :- Sample coading
+6.1 :- index.html
+6.1.1 :- Style.css
+6.2 :- signin.html
+6.2.1 :- signin.css
+6.3 :- signup.html
+6.3.1 :- signup.css
+6.4 :- shop.html
+6.4.1 :- shop.css
+6.5 :- buynow.html
+6.5.1 :- buynow.css
+6.6 :- contact.html
+6.6.1 :- contact.css
+Chapter 7 :- Project snapchat
+7.1 :- Home Page
+7.2 :- Signin Page
+7.3 :- Signup Page
+7.4 :- Book Shopping Page
+7.5 :- Contact Page
+Chapter 8 :- Testing and maintance
+8.1 :- Test cases
+8.2 :- Deployment and maintenance
+Conclusion
+Summary
+Future Shop of Application

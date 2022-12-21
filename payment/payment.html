@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link rel="stylesheet" href="paytm.css">
+    <title>college project book selling</title>
+</head>
+<body>
+    <!--payment start-->
+    <div class="class">
+    <div class="iphone">
+        <header class="header">
+          <h1>Payment</h1>
+        </header>
+        <form action="#" class="form" method="POST">
+          <div>
+            <h2>Address:</h2>
+            <fieldset>
+            <legend>Payment Method</legend>
+            <div class="form__radios">
+              <div class="form__radio">
+                <label for="visa"><svg class="icon">
+                    <use xlink:href="#icon-visa" />
+                  </svg>Visa Payment</label>
+                <input checked id="visa" name="payment-method" type="radio" />
+              </div>
+              <div class="form__radio">
+                <label for="paypal"><svg class="icon">
+                    <use xlink:href="#icon-paypal" />
+                  </svg>PayPal</label>
+                <input id="paypal" name="payment-method" type="radio" />
+              </div>
+              <div class="form__radio">
+                <label for="mastercard"><svg class="icon">
+                  </svg>Master Card</label>
+                <input id="mastercard" name="payment-method" type="radio"/>
+              </div>
+            </div>
+          </fieldset>
+          <div>
+            <br>
+            <h2>Shopping Bill</h2>   
+            <table>
+              <tbody>
+                <tr>
+                  <td>Shipping fee</td>
+                  <td align="right">439<td>
+                </tr>
+                <tr>
+                  <td>Discount 10%</td>
+                  <td align="right">- 40</td>
+                </tr>
+                <tr>
+                  <td>Price Total</td>
+                  <td align="right">399</td>
+                </tr>
+              </tbody>
+              <tfoot>
+                <tr>
+                  <td>Total</td>
+                  <td align="right">399</td>
+                </tr>
+              </tfoot>
+            </table>
+          </div>
+          <div>
+            <button class="button button--full" type="submit">Buy Now</button>
+          </div>
+        </form>
+       </div>
+      </div>
+  </body>
+</html>
